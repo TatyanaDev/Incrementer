@@ -1,4 +1,4 @@
-import { Counter } from "../render/components/Counter/Counter.js";
+import { Counter } from "./components/Counter/Counter.module.js";
 
 const root = document.getElementById("root");
 
